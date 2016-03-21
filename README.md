@@ -1,2 +1,5 @@
 # hello-world
-I am using this for storing my Java program's code 
+
+Hello!
+
+I am using GitHub for storing my Java program's code.
